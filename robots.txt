@@ -1,1 +1,1 @@
-Sitemap: https://yashsay.me/blogger/sitemap.xml
+Sitemap: /sitemap.xml
