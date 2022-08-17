@@ -1,1 +1,1 @@
-Sitemap: https://yashlab.github.io/blogger/sitemap.xml
+Sitemap: /sitemap.xml

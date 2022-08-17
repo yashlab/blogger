@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://yashlab.github.io/blogger/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://yashlab.github.io/blogger/jupyter/2020/02/20/test.html</loc>
+<loc>/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://yashlab.github.io/blogger/about/</loc>
+<loc>/about/</loc>
 </url>
 <url>
-<loc>https://yashlab.github.io/blogger/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>https://yashlab.github.io/blogger/search/</loc>
+<loc>/search/</loc>
 </url>
 <url>
-<loc>https://yashlab.github.io/blogger/categories/</loc>
+<loc>/categories/</loc>
 </url>
 </urlset>
